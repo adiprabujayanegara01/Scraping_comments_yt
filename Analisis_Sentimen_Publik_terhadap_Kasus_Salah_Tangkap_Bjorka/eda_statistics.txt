@@ -1,0 +1,35 @@
+STATISTIK EKSPLORASI DATA
+============================================================
+
+Total Komentar: 2177.00
+Rata-rata Panjang (char): 54.28
+Median Panjang (char): 36.00
+Min Panjang (char): 2.00
+Max Panjang (char): 1157.00
+Std Dev Panjang: 63.65
+Rata-rata Jumlah Kata: 9.17
+Median Jumlah Kata: 6.00
+
+
+TOP 20 KATA:
+------------------------------------------------------------
+1. bjorka: 381
+2. polisi: 369
+3. orang: 154
+4. hacker: 150
+5. tangkap: 148
+6. tau: 116
+7. kerja: 115
+8. nangkep: 110
+9. indonesia: 109
+10. judol: 101
+11. bang: 101
+12. anak: 98
+13. perintah: 92
+14. bener: 74
+15. data: 73
+16. negara: 72
+17. banget: 72
+18. lapor: 71
+19. salah: 71
+20. nangkap: 70

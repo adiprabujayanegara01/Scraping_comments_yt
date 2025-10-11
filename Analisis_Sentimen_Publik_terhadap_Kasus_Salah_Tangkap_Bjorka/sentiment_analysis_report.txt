@@ -1,0 +1,105 @@
+======================================================================
+LAPORAN ANALISIS SENTIMEN
+Kasus Salah Tangkap Bjorka - Komentar YouTube
+======================================================================
+
+1. RINGKASAN EKSEKUTIF
+----------------------------------------------------------------------
+Total Komentar Dianalisis: 2,177
+Periode Analisis: Data dari YouTube
+Metode: IndoBERT Sentiment Classification
+
+2. DISTRIBUSI SENTIMEN
+----------------------------------------------------------------------
+Negative............     1280 ( 58.80%)
+Neutral.............      512 ( 23.52%)
+Positive............      385 ( 17.68%)
+
+3. TEMUAN UTAMA
+----------------------------------------------------------------------
+• Sentimen dominan: NEGATIVE (58.8%)
+• Rata-rata confidence score: 0.8984
+• Komentar dengan high confidence (>0.8): 1749 (80.3%)
+
+4. KARAKTERISTIK KOMENTAR PER SENTIMEN
+----------------------------------------------------------------------
+
+POSITIVE:
+  Jumlah: 385 komentar
+  Rata-rata panjang: 33.3 karakter
+  Rata-rata kata: 5.6 kata
+  Rata-rata confidence: 0.8616
+
+NEUTRAL:
+  Jumlah: 512 komentar
+  Rata-rata panjang: 43.3 karakter
+  Rata-rata kata: 7.2 kata
+  Rata-rata confidence: 0.8633
+
+NEGATIVE:
+  Jumlah: 1280 komentar
+  Rata-rata panjang: 65.0 karakter
+  Rata-rata kata: 11.0 kata
+  Rata-rata confidence: 0.9234
+
+5. KATA KUNCI PER SENTIMEN
+----------------------------------------------------------------------
+
+POSITIVE - Top 15:
+   1. bjorka...................    40
+   2. banget...................    31
+   3. bener....................    27
+   4. anak.....................    18
+   5. bang.....................    18
+   6. orang....................    17
+   7. fakta....................    16
+   8. indonesia................    13
+   9. polisi...................    13
+  10. lucu.....................    13
+  11. keren....................    13
+  12. kerja....................    12
+  13. bgt......................    11
+  14. bikin....................    11
+  15. suka.....................    10
+
+NEUTRAL - Top 15:
+   1. bjorka...................   139
+   2. polisi...................    53
+   3. tangkap..................    26
+   4. tau......................    26
+   5. ded......................    21
+   6. indonesia................    20
+   7. undang...................    20
+   8. gua......................    18
+   9. hacker...................    18
+  10. anak.....................    17
+  11. orang....................    16
+  12. bang.....................    15
+  13. alih.....................    15
+  14. foto.....................    14
+  15. lapor....................    14
+
+NEGATIVE - Top 15:
+   1. polisi...................   303
+   2. bjorka...................   202
+   3. hacker...................   126
+   4. orang....................   121
+   5. tangkap..................   120
+   6. nangkep..................   100
+   7. kerja....................    96
+   8. judol....................    93
+   9. tau......................    84
+  10. indonesia................    76
+  11. perintah.................    74
+  12. bang.....................    68
+  13. data.....................    66
+  14. negara...................    63
+  15. salah....................    63
+
+6. KESIMPULAN
+----------------------------------------------------------------------
+Berdasarkan analisis 2,177 komentar YouTube terkait kasus salah
+tangkap Bjorka, sentimen publik didominasi oleh sentimen negative
+dengan persentase 58.8%. Rata-rata confidence score
+sebesar 0.8984 menunjukkan tingkat keyakinan model
+yang baik dalam klasifikasi sentimen.
