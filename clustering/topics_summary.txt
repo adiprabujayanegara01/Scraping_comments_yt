@@ -1,0 +1,65 @@
+================================================================================
+RINGKASAN TOPIK - SKENARIO 1
+================================================================================
+
+Cluster 0:
+  fakta, terang, polisi, cerdas, mobil, sim, pelan, buset, ngk, konoha
+
+Cluster 1:
+  orang, bang, hacker, bener, anak, tau, indonesia, kerja, perintah, ded
+
+Cluster 2:
+  polisi, kerja, konoha, nangkep, tidur, bjorka, lapor, hilang, tau, orang
+
+Cluster 3:
+  tangkap, salah, bjorka, polisi, hacker, tau, byorka, gua, lucu, keren
+
+Cluster 4:
+  bjorka, nangkep, asli, ketangkep, nonton, orang, percaya, muncul, perintah, rakyat
+
+Cluster 5:
+  nangkap, ketawa, bjorka, polisi, hacker, maling, liat, sok, ken, motor
+
+Cluster 6:
+  judol, bandar, nangkep, main, rugi, tangkap, bjorka, nangkap, bos, tangkep
+
+Cluster 7:
+  nya, bjorka, polisi, orang, gua, tau, plot, bro, pinter, bayar
+
+
+================================================================================
+RINGKASAN TOPIK - SKENARIO 2
+================================================================================
+
+
+NEGATIF:
+----------------------------------------
+  Cluster 0: salah, perintah, polisi, laku, lurah, negeri, anak, keluarga, tangkap, tunjuk
+  Cluster 1: orang, kerja, polisi, indonesia, jujur, kurang, fto, anak, masyarakat, sekolah
+  Cluster 2: hilang, lapor, motor, polisi, maling, temen, nya, surat, urus, uang
+  Cluster 3: polisi, pagi, liat, pas, foto, empat, tidur, bener, gitu, minimal
+  Cluster 4: bener, game, bang, suka, baca, bayar, nya, gua, nyata, kaya
+  Cluster 5: bjorka, judol, bandar, alas, tangkep, akun, tangkap, ketawa, mata, rakyat
+  Cluster 6: fakta, terang, pelan, hukum, maju, sesuai, busuk, ngalamin, komen, kantor
+
+POSITIF:
+----------------------------------------
+  Cluster 0: duit, dpt, doang, data, koruptor, ketangkep, ngak, tangkap, bang, main
+  Cluster 1: judol, main, bandar, pinter, tangkap, aneh, indo, nangkap, rugi, keren
+  Cluster 2: bjorka, gua, you, nangkap, rakyat, alive, asli, nya, keinget, berita
+  Cluster 3: anak, indonesia, normal, cerdas, pintar, hacker, komunitas, saran, pola, cipta
+  Cluster 4: bahasa, mas, kuping, bilang, tutup, teguh, top, lapor, data, better
+  Cluster 5: polisi, bener, hahaha, tidur, prestasi, anjir, bayar, nya, nangkap, data
+  Cluster 6: hacker, bikin, system, real, foto, video, duke, ngak, percaya, wow
+  Cluster 7: orang, main, nya, mah, nonton, ginian, hati, nangkep, bapak, indonesia
+
+NETRAL:
+----------------------------------------
+  Cluster 0: bang, kertas, lapor, doang, negeri, bener, gitu, pagi, kek, sampe
+  Cluster 1: polisi, tau, lulus, uang, rakyat, orang, citra, kerja, bener, smk
+  Cluster 2: fakta, polisi, aparat, ngurus, dasar, malak, habis, polri, negara, yaa
+  Cluster 3: nya, bjorka, bobrok, yaa, usaha, uang, suruh, smk, tempat, trus
+  Cluster 4: indonesia, emng, tempat, uang, yaa, polri, laku, oknum, bilang, dasar
+  Cluster 5: foto, pergi, hasil, polisi, lapor, bener, smk, trus, anjir, lapang
+  Cluster 6: gua, bayar, motor, perintah, pas, rumah, rakyat, mobil, hacker, negara
+  Cluster 7: duit, lapor, trus, oknum, tempat, doang, bang, kantor, jalan, sampe
